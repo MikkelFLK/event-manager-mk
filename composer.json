@@ -1,0 +1,11 @@
+{
+    "name": "krist/event-manager-mk",
+    "description": "Plugin",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
